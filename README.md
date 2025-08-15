@@ -21,9 +21,9 @@ It also demonstrates how to use Playwright for **browser automation** along with
 ---
 
 ## 📂 Project Structure
-├── tests/ # Test scripts (UI & API)
-├── playwright.config.ts # Playwright configuration
-├── results/ # Test run results & HTML reports
+- **tests/:** # Test scripts (UI & API)
+- **playwright/**.config.ts # Playwright configuration
+- **results/** # Test run results & HTML reports
 ├── README.md # Project documentation
 └── package.json # Dependencies & scripts
 ---
