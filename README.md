@@ -34,7 +34,7 @@ It also demonstrates how to use Playwright for **browser automation** along with
 - **Run Tests:** npx playwright test 
 - **View Test Report:** npx playwright show-report
 ---
-## 📊 Generating Allure Reports This project supports Allure Reporting for better visualization of test results. 
+## 📊 Generating Allure Reports 
 - **Install Allure Dependencies Run the following command to install Playwright’s Allure reporter and the Allure CLI:** 
 npm install --save-dev allure-playwright / npm install -g allure-commandline 
 - **Configure Allure in Playwright In your playwright.config.ts (or .js), add the Allure reporter:**
