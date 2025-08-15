@@ -51,7 +51,7 @@ Allure Report
 <img width="1741" height="956" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/de93aa75-f931-49e4-aa61-fb9b22f9e267" />
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
