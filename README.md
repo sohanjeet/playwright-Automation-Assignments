@@ -27,45 +27,7 @@ It also demonstrates how to use Playwright for **browser automation** along with
 ├── README.md # Project documentation
 └── package.json # Dependencies & scripts
 ---
-⚡ Getting Started
--Clone the Repository
-git clone https://github.com/sohanjeet/playwright-Automation-Assignments.git
--cd playwright-Automation-Assignments
--Install Dependencies
-npm install
--Run Tests
-npx playwright test
--View Test Report
-npx playwright show-report
----
-📊 Reports
-After test execution, reports are generated inside the results/ folder.
-Open them via:
--npx playwright show-report
----
-📊 Generating Allure Reports
-This project supports Allure Reporting for better visualization of test results.
-1️.Install Allure Dependencies
-Run the following command to install Playwright’s Allure reporter and the Allure CLI:
-npm install --save-dev allure-playwright / npm install -g allure-commandline
-2️.Configure Allure in Playwright
-In your playwright.config.ts (or .js), add the Allure reporter:
-import { defineConfig } from '@playwright/test';
-export default defineConfig({
-  reporter: [
-    ['list'],
-    ['allure-playwright']
-  ],
-});
-3️.Run Tests with Allure Output
-Execute your tests and save the results for Allure:
-npx playwright test --reporter=line,allure-playwright
-By default, results will be stored in the allure-results folder.
-4️.Generate Allure Report
-After running the tests, generate the HTML report:
-allure generate allure-results --clean -o allure-report
-5️.Open Allure Report Locally
-allure open allure-report
+
 ---
 Screenshots
 Allure Report
