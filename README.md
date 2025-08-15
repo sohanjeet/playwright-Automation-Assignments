@@ -46,7 +46,7 @@ allure generate allure-results --clean -o allure-report
 - **Open Allure Report Locally:**
 allure open allure-report
 ---
-## 📊 Screenshot
+## 📸 Screenshot
 Allure Report
 <img width="1741" height="956" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/de93aa75-f931-49e4-aa61-fb9b22f9e267" />
 ---
