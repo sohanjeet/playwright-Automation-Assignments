@@ -31,8 +31,8 @@ It also demonstrates how to use Playwright for **browser automation** along with
 - **Clone the Repository:** git clone https://github.com/sohanjeet/playwright-Automation-Assignments.git 
 - **cd playwright-Automation-Assignments** 
 - **Install Dependencies:** npm install 
--**Run Tests:** npx playwright test 
--**View Test Report:** npx playwright show-report
+- **Run Tests:** npx playwright test 
+- **View Test Report:** npx playwright show-report
 ---
 ## 📊 Reports
 Allure Report
