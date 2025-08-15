@@ -29,7 +29,7 @@ It also demonstrates how to use Playwright for **browser automation** along with
 ---
 
 ---
-Screenshots
+## 📊 Reports
 Allure Report
 <img width="1741" height="956" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/de93aa75-f931-49e4-aa61-fb9b22f9e267" />
 ---
