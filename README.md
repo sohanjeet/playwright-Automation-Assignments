@@ -28,20 +28,20 @@ It also demonstrates how to use Playwright for **browser automation** along with
 └── package.json # Dependencies & scripts
 ---
 ⚡ Getting Started
-1️. Clone the Repository
+-Clone the Repository
 git clone https://github.com/sohanjeet/playwright-Automation-Assignments.git
 -cd playwright-Automation-Assignments
-2️. Install Dependencies
+-Install Dependencies
 npm install
-3️.Run Tests
+-Run Tests
 npx playwright test
-4️.View Test Report
+-View Test Report
 npx playwright show-report
 ---
 📊 Reports
 After test execution, reports are generated inside the results/ folder.
 Open them via:
-npx playwright show-report
+-npx playwright show-report
 ---
 📊 Generating Allure Reports
 This project supports Allure Reporting for better visualization of test results.
