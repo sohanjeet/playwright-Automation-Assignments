@@ -26,7 +26,7 @@ It also demonstrates how to use Playwright for **browser automation** along with
 ├── results/ # Test run results & HTML reports
 ├── README.md # Project documentation
 └── package.json # Dependencies & scripts
-
+---
 ⚡ Getting Started
 1️⃣ Clone the Repository
 -->git clone https://github.com/sohanjeet/playwright-Automation-Assignments.git
@@ -37,7 +37,7 @@ It also demonstrates how to use Playwright for **browser automation** along with
 -->npx playwright test
 4️⃣ View Test Report
 -->npx playwright show-report
-
+---
 📊 Reports
 -After test execution, reports are generated inside the results/ folder.
 Open them via:
@@ -66,11 +66,11 @@ After running the tests, generate the HTML report:
 -->allure generate allure-results --clean -o allure-report
 5️⃣ Open Allure Report Locally
 -->allure open allure-report
-
+---
 Screenshots
 -->Allure Report
 <img width="1741" height="956" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/de93aa75-f931-49e4-aa61-fb9b22f9e267" />
-
+---
 
 📄 License
 
